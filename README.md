@@ -1,2 +1,2 @@
 # Miscellaneous
-All miscellaneous projects and certificates
+Gir repo for all the miscellaneous projects and certificates
